@@ -1,15 +1,6 @@
 # Personal Portfolio with ReactJS | Project On Hold
 
 
-### Live [Demo on Github Pages](choubari.github.io/)
-
-
-You can check also :
-
-#### French Version on a seperate branch [deployed on Netlify](https://choubari-eportfolio.netlify.app/) 
-
-
-
 ## Features
 
 **📖 Multi-Page Layout**
@@ -37,7 +28,4 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
-## Credits :
-
-All credits go to @soumyajit4419, check the original [portfolio repository](https://github.com/soumyajit4419/Portfolio).
 
