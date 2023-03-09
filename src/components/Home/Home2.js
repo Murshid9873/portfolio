@@ -18,16 +18,17 @@ function Home2() {
               A highly motivated person, dynamic, persevering and rigorous.
               <br />
               <br /> I'm{" "}
-              <b className="purple">Software Engineer </b>
-              at QWY Technologies.
+              <b className="purple">Software Developer Intern </b>
+              at BAABTA Technologies. 
               <br />
               <br />
               I’m familiar with
-              <b className="purple"> BackEnd Developement</b>, Using
-              <b className="purple"> Node</b>, Creating REST APIs using Express
+              <b className="purple"> Front-end Developement</b>, Using
+              <b className="purple"> Angular</b> and 
+              <b className="purple"> Back-end Developement</b>, Using
+              <b className="purple"> Django</b>
               <br />
-              <br />
-              I'm also a freelance<b className="purple"> BugBounty Hunter </b> 
+              <br /> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">

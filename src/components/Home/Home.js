@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import homeLogo from "../../Assets/me.jpg";
+import homeLogo from "../../Assets/murshid.jpg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
@@ -22,7 +22,7 @@ function Home() {
               <Row>
               <h1 className="heading-name">
                 I'm
-                <strong className="main-name"> Abhiram V V</strong>
+                <strong className="main-name"> Murshid V P</strong>
               </h1>
               </Row>
               <Row>

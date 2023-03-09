@@ -41,14 +41,11 @@ function About() {
           Technical <strong className="purple">Skills </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-          <Techstack iconName="devicon-nodejs-plain" />
-          <Techstack iconName="devicon-vuejs-plain" />
+          <Techstack iconName="devicon-angularjs-plain" />
+          <Techstack iconName="devicon-python-plain" />
+          <Techstack iconName="devicon-bootstrap-plain" />
           <Techstack iconName="devicon-postgresql-plain" />
-          <Techstack iconName="devicon-nginx-original" />
           <Techstack iconName="devicon-npm-original-wordmark" />
-          <Techstack iconName="devicon-linux-plain" />
-          <Techstack iconName="devicon-android-plain" />
-          <Techstack iconName="devicon-firebase-plain" />
           <Techstack iconName="devicon-javascript-plain " />
           <Techstack iconName="devicon-git-plain-wordmark" />
         </Row>

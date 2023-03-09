@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import pdf from "../../Assets/ABHIRAM_CV_ENGLISH.pdf";
+import pdf from "../../Assets/Murshid_CV.pdf";
 
 function Resume() {
   return (
