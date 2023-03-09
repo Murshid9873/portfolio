@@ -18,21 +18,13 @@ function Footer() {
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
-              <a href="https://github.com/abhirammltr" style={{ color: "white" }}>
+              <a href="https://github.com/Murshid9873" style={{ color: "white" }}>
                 <i className="fab fa-github"></i>
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/abhiramvv/"
-                style={{ color: "white" }}
-              >
-                <i className="fab fa-linkedin-in"></i>
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.instagram.com/abhiram_mltr/"
+                href="https://www.instagram.com/murshd_vp/"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-instagram"></i>

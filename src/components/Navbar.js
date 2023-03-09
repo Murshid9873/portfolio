@@ -46,7 +46,7 @@ function NavBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto" defaultActiveKey="#home">
             <Nav.Item>
-              <Nav.Link as={Link} to="/abhiramvv/" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/murshidvp/" onClick={() => updateExpanded(false)}>
                 <i className="fas fa-home"></i> Home
               </Nav.Link>
             </Nav.Item>

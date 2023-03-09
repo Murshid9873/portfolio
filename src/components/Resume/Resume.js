@@ -21,29 +21,12 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="Software Engineer - QWQER"
-              date="December 2021 - Present"
+              title="Software Developer Intern - BAABTA Technologies"
+              date="september 2022 - Present"
               content={[
-                "Contributing to the developement of a online shopping application.",
-                "BackEnd developement using Node.",
-                "FrontEnd Developement using Vue",
-                "Server management and deploy using GitHub CI/CD",
-              ]}
-            />
-            <Resumecontent
-              title="Security Analyst - BrizoTech labs"
-              date="July 2020 - August 2021"
-              content={[
-                "Conduct Penetration Tests",
-                "Create Detailed Vulnerability Assesment Report",
-                "Give suggestions to close the Vulnerabilities",
-              ]}
-            />
-            <Resumecontent
-              title="Android developer - Freelance"
-              date="2019-2020"
-              content={[
-                "Creating basic android application in JAVA using Android Studio"
+                "Contributing to the developement of landing pages and dashboards.",
+                "Frontend developement using HTML,CSS,Bootstrap and Angular.",
+                "BackEnd Developement using Python"
               ]}
             />
             
@@ -51,18 +34,18 @@ function Resume() {
           <Col md={6} className="resume-right">
           <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="College of Engineering Chengannur"
-              date="2016 - 2020"
+              title="Awh Engineering College"
+              date="2018 - 2022"
               content={["B-Tech Computer Science"]}
             />
             <Resumecontent
-              title="R M Higher Secondary School"
-              date="2014 - 2016"
+              title="Auxilium Nava Jyoti School"
+              date="2016 - 2018"
               content={["Higher Secondary"]}
             />
             <Resumecontent
-              title="R M Higher Secondary School"
-              date="2015"
+              title="Markaz English Medium School"
+              date="2016"
               content={["Matriculation"]}
             />
             
